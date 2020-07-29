@@ -6,4 +6,4 @@ This program is written in java and utilizes the Processing 3 Sketchbook softwar
 
 ## Example video
 
-<a href="https://imgur.com/aScLDUQ"><img src="https://i.imgur.com/aScLDUQ.mp4" title="source: imgur.com" /></a>
+![Selection Sort Demo](https://i.imgur.com/AGeaQ9T.gif)
