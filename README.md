@@ -4,6 +4,6 @@ This program is written in java and utilizes the Processing 3 Sketchbook softwar
 
 ---
 
-## Example video
+## Selection Sort Demo
 
 ![Selection Sort Demo](https://i.imgur.com/AGeaQ9T.gif)
